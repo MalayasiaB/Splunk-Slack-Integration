@@ -1,4 +1,4 @@
-<h1>Integrating Slack within Splunk to Automate Response Actions</h1>
+<h1>Integrating Slack within  Splunk to Automate Response Actions</h1>
 
 
 <h2>Description</h2>
