@@ -66,7 +66,7 @@ Opened my Slack app, found the apps tab and typed splunk in the search bar. I th
 <br />
 <br />
 The splunkbot was added as seen in the bottom left. I created a new channel and invited the Splunkbot:  <br/>
-<img src="https://i.imgur.com/m3s27O8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GOvZvn3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 From there I navigated back to Splunk, clicked on settings and clicked users:  <br/>
