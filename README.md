@@ -50,7 +50,7 @@ Installing app into Slack workspace:  <br/>
 <br />
 <br />
 Allowing specific permissions:  <br/>
-<img src="https://i.imgur.com/7cCNGJX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/3ed1a59a-f2a3-41bb-acf1-173af2f9a480" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Copied API:  <br/>
@@ -62,7 +62,7 @@ Navigated back to Splunks home screen. In the apps section at the top left click
 <br />
 <br />
 Opened my Slack app, found the apps tab and typed splunk in the search bar. I then clicked on the first result:  <br/>
-<img src="https://i.imgur.com/ncxalpD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/e8b7ebf3-22b1-4518-b8bb-eb2c098f0d29" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 The splunkbot was added as seen in the bottom left. I created a new channel and invited the Splunkbot:  <br/>
