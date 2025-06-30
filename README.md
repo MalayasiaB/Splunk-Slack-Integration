@@ -38,7 +38,7 @@ Selected my workspace:  <br/>
 <br />
 <br />
 Input YAML code:  <br/>
-<img src="https://github.com/user-attachments/assets/592b8aab-727c-4cfe-9cfc-42e52f3642fd" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/592b8aab-727c-4cfe-9cfc-42e52f3642fd" height="80%" width="80%" alt="Slack"/>
 <br />
 <br />
 Clicked create, you can see the scope for the bot that will be created based on the YAML code:  <br/>
@@ -50,7 +50,7 @@ Installing app into Slack workspace:  <br/>
 <br />
 <br />
 Allowing specific permissions:  <br/>
-<img src="https://github.com/user-attachments/assets/d8aa1221-799f-4319-80f4-15fbc206fae6" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/d8aa1221-799f-4319-80f4-15fbc206fae6" height="80%" width="80%" alt="Slack"/>
 <br />
 <br />
 Copied API:  <br/>
